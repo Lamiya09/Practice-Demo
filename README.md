@@ -1,2 +1,3 @@
 # Practice-Demo
-This is my first git practice repository.
+This is my first Git practice Repository.
+Author - Lamiya
